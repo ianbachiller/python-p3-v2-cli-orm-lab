@@ -1,3 +1,4 @@
+1
 
 from helpers import (
     exit_program,
